@@ -76,13 +76,13 @@ Install **Netdata** on an AWS EC2 instance using Docker and visualize system and
 ## 📸 Screenshots
 
 **Netdata Dashboard:**
-![Screenshot 1](path/to/dashboard.png)
+![Screenshot 1](dashboard.png)
 
 **CPU, Memory, Disk metrics:**
-![Screenshot 2](path/to/metrics.png)
+![Screenshot 2](metrics.png)
 
 **Netdata Logs:**
-![Screenshot 3](path/to/logs.png)
+![Screenshot 3](logs.png)
 
 ---
 
