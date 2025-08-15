@@ -1,28 +1,28 @@
-Here’s the **Markdown code** for your `README.md` — you can copy-paste this directly into a file named `README.md` in your project folder:
-
-````markdown
 # Task 7 - Monitor System Resources Using Netdata
 
 ## 📌 Objective
+
 Install **Netdata** on an AWS EC2 instance using Docker and visualize system and application performance metrics in real time.
 
 ---
 
 ## 🛠 Tools Used
-- **AWS EC2 (Ubuntu 22.04)**
-- **Docker**
-- **Netdata (Docker image: `netdata/netdata`)**
-- **Stress** (to simulate CPU load)
-- **Apache2** (to simulate network activity)
+
+* **AWS EC2 (Ubuntu 22.04)**
+* **Docker**
+* **Netdata (Docker image: `netdata/netdata`)**
+* **Stress** (to simulate CPU load)
+* **Apache2** (to simulate network activity)
 
 ---
 
 ## 📋 Steps Followed
 
 1. **Connected to EC2 instance**
+
    ```bash
    ssh -i your-key.pem ubuntu@your-ec2-public-ip
-````
+   ```
 
 2. **Installed Docker**
 
@@ -135,8 +135,3 @@ A real-time web interface showing system and app performance metrics.
 * Captured screenshots for documentation and submission.
 
 ---
-
-```
-
-If you want, I can now give you the **exact Git commands** to create a new GitHub repo, add this README, upload screenshots, and push it all in one go so you can submit before your deadline.
-```
